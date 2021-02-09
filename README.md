@@ -1,4 +1,3 @@
- # PLSQL-Project
 
 # Cerinte proiect:
 1. Prezentați pe scurt baza de date (utilitatea ei).
